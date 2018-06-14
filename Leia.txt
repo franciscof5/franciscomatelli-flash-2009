@@ -1,0 +1,34 @@
+
+
+   OS Commerce Versão 2.2 MS2 Português Brasil Por PHPmania.org
+
+Tradução dos arquivos admin e catalog 
+
+Esta tradução não está incluida a parte do Banco de dados do Admin.
+
+http://www.phpmania.org  
+
+--------------------- Como instalar ---------------------
+
+Descompacte o arquivo zip e envie para o servidor os arquivos na sequência abaixo.
+
+ catalog/includes/languages/portugues
+ catalog/includes/languages/portugues.php
+
+ admin/includes/languages/portugues
+ admin/includes/languages/portugues.php
+
+Após ter enviado os arquivos da tradução acesse o seu painel administrativo em languages
+e clique no botão new language e entre com as seguintes informações.
+ 
+Name:Portugues
+Code:br
+Image:icon.gif
+Directory:portugues
+Sort Order:1
+Set as default --> Deixe marcado
+
+Feito isso volte ao painel incial do admin e altere também a linguagem para o portugues.
+
+Atenciosamente
+PHPmania.org

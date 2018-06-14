@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /sohoadmin/client_files/
+Disallow: /sohoadmin/config/
+Disallow: /sohoadmin/filebin/
+Disallow: /sohoadmin/icons/
+Disallow: /sohoadmin/includes/
+Disallow: /sohoadmin/language/
+Disallow: /sohoadmin/marketing/
+Disallow: /sohoadmin/program/
+Disallow: /sohoadmin/skins/
+Disallow: /sohoadmin/client_files/
+Disallow: /shopping/
+Disallow: /pgm-email_friend.php
+Disallow: /pgm-form_submit.php
